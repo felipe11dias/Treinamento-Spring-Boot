@@ -19,7 +19,7 @@ Módulo de treinamento spring boot
 # Instalação
 Faça o clone do projeto no git, canto superior direito no repositório do projeto(Botão 'Code').
 
-[Download do JDK 15.0.2](https://www.oracle.com/br/java/technologies/javase/jdk11-archive-downloads.html)
+[Download do JDK 11](https://www.oracle.com/br/java/technologies/javase/jdk11-archive-downloads.html)
 Baixe a versão da JDK e utilize dela para rodar o projeto já clonado.
 
 ## Fonte de Estudo
