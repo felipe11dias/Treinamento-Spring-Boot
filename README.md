@@ -7,15 +7,15 @@ Módulo de treinamento spring boot
 - Api de login dá aplicação (web e apps)
 - Api para o CRUD de Tópicos
 - Api para validação do token de acesso as aplicações
-- Segurança com [Spring security](https://spring.io/projects/spring-security)
-- Cache com [Spring cache](https://spring.io/guides/gs/caching/)
+- Segurança com [Spring Security](https://spring.io/projects/spring-security)
+- Cache com [Spring Cache](https://spring.io/guides/gs/caching/)
 - Documentação com [Swagger](https://swagger.io/)
 
 ## Tecnologias utilizadas
 
 - [Spring Boot 2.4.3](https://spring.io/projects/spring-boot)
-- [Spring security](https://spring.io/projects/spring-security)
-- [Spring cache](https://spring.io/guides/gs/caching/)
+- [Spring Security](https://spring.io/projects/spring-security)
+- [Spring Cache](https://spring.io/guides/gs/caching/)
 - [Java 11](https://www.java.com/pt-BR/)
 - [H2 Data Base](https://www.h2database.com/html/main.html)
 - [JPA](https://spring.io/guides/gs/accessing-data-jpa/)
